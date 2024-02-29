@@ -1,0 +1,8 @@
+ALERTAS AMARILLAS:
+ALERTAS NARANJAS:
+- {'id_sensor': '3', 'lat': '32.5553', 'long': '37.55555', 'tipo_sensor': 'lluvia', 'valor_estandar': 30, 'desviación': 10, 'valor_actual': 5, 'activo': True}
+ALERTAS ROJAS:
+- {'id_sensor': '1', 'lat': '34.5553', 'long': '36.55555', 'tipo_sensor': 'temperatura', 'valor_estandar': 24, 'desviación': 5, 'valor_actual': 28, 'activo': True}
+- {'id_sensor': '2', 'lat': '32.5553', 'long': '37.55555', 'tipo_sensor': 'viento', 'valor_estandar': 34, 'desviación': 10, 'valor_actual': 55, 'activo': True}
+- {'id_sensor': '4', 'lat': '34.5553', 'long': '36.55555', 'tipo_sensor': 'viento', 'valor_estandar': 68, 'desviación': 10, 'valor_actual': 89, 'activo': True}
+- {'id_sensor': '5', 'lat': '36.5553', 'long': '37.55555', 'tipo_sensor': 'viento', 'valor_estandar': 68, 'desviación': 10, 'valor_actual': 89, 'activo': False}
